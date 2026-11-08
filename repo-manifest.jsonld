@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/tapnet/commit/ceedd60bb9f6c9f7c74796e4445aff6c6ddf7c9b",
       "git:hexsha": "ceedd60bb9f6c9f7c74796e4445aff6c6ddf7c9b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
